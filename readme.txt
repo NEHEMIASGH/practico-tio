@@ -1,1 +1,0 @@
-Cuando el usuario crea su cuenta con su correo, contraseña y nombre de usuario, dichos datos e guardan en una Base de Datos, que acciona cuando el usuario trata de conectarse a la cuenta, confirmando si los datos ingreados recientemente, coinciden con los datos guardados previamente
