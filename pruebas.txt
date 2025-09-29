@@ -1,0 +1,8 @@
+[Login]
+- Usuario válido, contraseña válida → Debe ingresar.
+- Usuario válido, contraseña inválida → Error.
+- Usuario vacío → Mensaje de campo requerido.
+
+[Navegación]
+- Menú Productos abre listado.
+- Enlace Contacto funciona.
