@@ -1,1 +1,0 @@
-Las opciones comerciales mas grandes son Oracle, Microsoft SQL, Server, y IBM Db2, si no, para codigo abierto se encuentran MySQL y PostgreSQL
