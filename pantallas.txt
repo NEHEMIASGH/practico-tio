@@ -1,4 +1,4 @@
-home
-conctacto
+Inicio
+Contacto
 Productos
-CARRITO
+Carrito
