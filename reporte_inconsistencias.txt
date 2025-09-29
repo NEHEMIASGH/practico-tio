@@ -1,0 +1,6 @@
+Inconsistencias detectadas:
+- opciones.txt: la opción 'Carrito' dice 'añadir' pero en pantallas.txt figura 'agregar'.
+- Formato de títulos mixto (algunas pantallas en MAYÚSCULAS, otras Capitalizadas).
+Sugerencias:
+- Unificar verbo: 'Agregar' en todo el sitio.
+- Normalizar títulos en Capitalización.
