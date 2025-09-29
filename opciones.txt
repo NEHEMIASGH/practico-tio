@@ -1,1 +1,2 @@
 Al moverse por la pagina usando las distintaas opciones, por ejemplo, Productos, Contactos, Locales, etc. La pagina redirige a otra URL vinculada con la misma pagina, pero con un contenido diferente
+Archivo modificado
