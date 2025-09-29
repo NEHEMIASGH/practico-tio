@@ -1,1 +1,0 @@
-Podemos usar otros Frameworks como Angular, y para Base de Datos MongoDB
